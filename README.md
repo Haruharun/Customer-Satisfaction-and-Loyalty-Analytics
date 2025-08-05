@@ -2,6 +2,8 @@
 
 ![Customer Satisfaction & Loyalty Dashboard](https://github.com/Haruharun/Customer-Satisfaction-and-Loyalty-Analytics/blob/713219075e96b29a5d7cdb8aca4d77293503613c/Screenshot%202025-07-17%20151344.png)
 
+![Customer Satisfaction & Loyalty Dashboard](https://github.com/Haruharun/Customer-Satisfaction-and-Loyalty-Analytics/blob/6c3b56ca4e1b9af4292f095ff142cd5cfba16c18/Screenshot%202025-07-17%20151321.png)
+                                              
 ### Dashboard live link : https://shorturl.at/aZfTz
 
 

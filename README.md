@@ -1,6 +1,6 @@
 # Customer-Satisfaction-and-Loyalty-Analytics
 
-![Social Media Dashboard](https://github.com/Haruharun/Social-Media-Content-Performance-/blob/2b0047121295581259e5ff16c61a755a9c9b28cd/Screenshot%202025-06-20%20192309.png)
+![Customer Satisfaction & Loyalty Dashboard](https://github.com/Haruharun/Customer-Satisfaction-and-Loyalty-Analytics/blob/713219075e96b29a5d7cdb8aca4d77293503613c/Screenshot%202025-07-17%20151344.png)
 
 ### Dashboard live link : https://shorturl.at/aZfTz
 
